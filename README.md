@@ -43,4 +43,3 @@ The end to end stack of the software is deployed in heroku. (only the applicatio
 
 * Hat tip to anyone whose code was used
 * Inspiration
-* etcss
